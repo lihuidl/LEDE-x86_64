@@ -12,9 +12,9 @@ on:
     types: [published]
     
 # 编辑触发    
-  push:
-    branches: 
-      - master
+  # push:
+  #  branches: 
+  #     - master
       
 # 定时触发      
   schedule:
